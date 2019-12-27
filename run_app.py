@@ -109,7 +109,7 @@ class Form_Plus(Ui_Form):
             if self.r2Status[2] == '1':
                 print('拉开{}{}{}{}刀闸'.format(self.r2_station.text(), self.r2_line.text(), self.r2_loc.text(),
                                             self.r2_rightIsolator.text()))
-        # 电源侧转备用 2019年12月28日00:45:37 11111
+        # 电源侧转备用
         if self.l1_if.isChecked():
             if self.l1_switch_type.currentText() == '配电设备':
                 if self.l1_ifSwitch.isChecked():
