@@ -2,103 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04642322-3500-4b53-b69b-a0350087eee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Lib/tcl8.6/init.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/Activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_asyncio.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_bz2.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_contextvars.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_ctypes.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_ctypes_test.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_decimal.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_distutils_findvs.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_elementtree.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_hashlib.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_lzma.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_msi.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_multiprocessing.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_overlapped.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_queue.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_socket.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_sqlite3.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_ssl.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_testbuffer.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_testcapi.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_testconsole.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_testimportmultiple.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_testmultiphase.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/_tkinter.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/activate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/concrt140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/deactivate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/msvcp140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/msvcp140_1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/msvcp140_2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/python3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/python37.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/tcl86t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/tk86t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/ucrtbase.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/unicodedata.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/vccorlib140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/vcomp140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/vcruntime140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/winsound.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/xlwings32-0.15.8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/Scripts/xlwings64-0.15.8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VENV1/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/配网停电申请.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/配网停电申请.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_app.py" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/VENV/" />
+    <ignored path="$PROJECT_DIR$/VENV1/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="107" column="22" lean-forward="true" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -112,6 +43,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run_app.py" />
+      </list>
+    </option>
+  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -120,8 +58,33 @@
       </set>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="807" />
+    <option name="y" value="40" />
+    <option name="width" value="1129" />
+    <option name="height" value="983" />
+  </component>
   <component name="ProjectId" id="1RVpJSyGoVmHV6uU5SIuSMnKhVg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApplyforOverhauling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplyforOverhauling" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -130,7 +93,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.run_app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -216,6 +191,29 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="ToolWindowManager">
+    <frame x="807" y="40" width="1129" height="983" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15215398" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="WindowStateProjectService">
     <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1577431761956">
       <screen x="0" y="0" width="1366" height="728" />
@@ -252,5 +250,17 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/run_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="107" column="22" lean-forward="true" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
