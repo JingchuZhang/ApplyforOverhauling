@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image/scope.jpg</file>
+    <file>image/daoza_kai.jpg</file>
+    <file>image/station.jpg</file>
+    <file>image/kaiguan_he.jpg</file>
+    <file>image/kaiguan_kai.jpg</file>
+    <file>image/nothing.jpg</file>
+    <file>image/ta.jpg</file>
+    <file>image/daoza_he.jpg</file>
+  </qresource>
+</RCC>
